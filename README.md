@@ -24,6 +24,12 @@ Install using [npm](https://npmjs.org/) for node.js:
 npm install --save moment-parseformat
 ```
 
+Install using [bower](https://bower.io):
+
+```
+bower install --save moment-parseformat
+```
+
 
 Browser Usage
 -----
