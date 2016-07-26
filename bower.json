@@ -1,0 +1,12 @@
+{
+  "name": "moment-parseformat",
+  "version": "2.1.3",
+  "main": "./dist/moment-parseformat.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+  ],
+  "dependencies": {
+    "moment": ">= 2"
+  }
+}
