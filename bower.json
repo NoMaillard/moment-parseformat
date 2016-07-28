@@ -1,12 +1,8 @@
 {
   "name": "moment-parseformat-bower",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "A moment.js plugin to extract the format of a date/time string",
   "main": "./dist/moment-parseformat.js",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-  ],
   "dependencies": {
     "moment": ">= 2"
   }
